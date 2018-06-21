@@ -1,0 +1,1 @@
+A machine learning based project which can be used to predict whether the user have diabetes or not based on the parameters like body mass index, Skin thickness, blood pressure, glucose etc using sing decision tree algorithm
