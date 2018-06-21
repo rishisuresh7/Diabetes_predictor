@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar  9 21:14:38 2018
-
-@author: prabhat
 """
 
 # K-Nearest Neighbors (K-NN)
